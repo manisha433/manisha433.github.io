@@ -3,6 +3,8 @@ Manisha
 ![Image](https://github.com/manisha433/manisha433.github.io/blob/master/imm.JPG?raw=true)
 
 
+I am Manisha Thapa
+
 
 "My Skills"
 1. python
